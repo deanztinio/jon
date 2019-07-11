@@ -1,0 +1,36 @@
+body{
+    font-family: 'Montserrat Alternates', sans-serif;
+    color: white;
+    background-color: black;
+}
+
+.landing{
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+}
+
+.distortion1{
+    width: 350px;
+    height: 500px;
+    /* align-self: flex-end; */
+}
+
+.distortion2{
+    width: 350px;
+    height: 500px;
+    /* align-self: flex-end; */
+}
+
+.intro{
+    align-self: center;
+}
+
+
+.intro h2{
+    font-size: 50px;
+}
+
+.intro p{
+    font-size: 25px;
+}
